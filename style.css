@@ -1,0 +1,38 @@
+.logoimg {
+    width: 50px;
+    height: 50px;
+    
+}
+
+.anima:hover{
+    transform: scale(1.2);
+}
+
+.anima {
+    transition-property: transform;
+    transition-duration: 500ms;
+}
+
+.logo {
+    padding-right: 450px;
+}
+
+.ombra {
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+
+.tizia {
+    width: 75%;
+    height: auto;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    height: 250px;
+    margin-top: 80px;
+ }
+
+ .in-mezzo {
+    padding-top: 100px;
+ }
+
